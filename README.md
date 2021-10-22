@@ -1,4 +1,5 @@
 # Greetings 👋
+  <img src="./banner.png" alt="banner_aboutme" />&nbsp;&nbsp;
 
 ## About me 
 
