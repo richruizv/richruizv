@@ -5,9 +5,9 @@
 
 My name is Ricardo Ruíz, and I have been developing since seven years ago. I'm very passionate about what I'm doing and always looking to improve myself. I'm thrilled if you contact me and talk to me about your projects 😁
 
-- 🔭 I’m currently developing on Platzi Master.
-- 🌱 I’m currently learning Python and data analysis.
-- 👯 I’m looking to collaborate on Open-Source projects.
+- 🦄 Working in Playbusiness
+- 🌱 Working with hotwire and Rails
+- 👯 Learning about how to customize OpenAI with specific information
 
 ## 💻 Some technologies I use
 <p align="center">
