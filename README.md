@@ -6,8 +6,8 @@
 My name is Ricardo Ruíz, and I have been developing since seven years ago. I'm very passionate about what I'm doing and always looking to improve myself. I'm thrilled if you contact me and talk to me about your projects 😁
 
 - 🦄 Working in Playbusiness
-- 🌱 Working with hotwire and Rails
-- 👯 Learning about how to customize OpenAI with specific information
+- 🚊 Working with hotwire and Rails
+- 🤖 Learning how to customize OpenAI with specific information
 
 ## 💻 Some technologies I use
 <p align="center">
@@ -50,7 +50,6 @@ https://github.com/richruizv/bplazas_siged
 
 ## 📫 How to reach me: 
 - rich.ruiz.v@gmail.com
-- https://richend.dev/
 - https://www.linkedin.com/in/richruizv/
 - https://twitter.com/richruizv
 
