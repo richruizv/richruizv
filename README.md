@@ -5,9 +5,9 @@
 
 My name is Ricardo Ruíz, and I have been developing since seven years ago. I'm very passionate about what I'm doing and always looking to improve myself. I'm thrilled if you contact me and talk to me about your projects 😁
 
-- 🦄 Working in Playbusiness
-- 🚊 Working with hotwire and Rails
-- 🤖 Learning how to customize OpenAI with specific information
+- 🦄 Working in Ding Door
+- 🚊 Working with Javascript and Astro
+- 🤖 Learning how to create apps with Flutter
 
 ## 💻 Some technologies I use
 <p align="center">
